@@ -1,0 +1,5 @@
+#!/bin/sh
+
+set -ev
+
+exec /usr/bin/python2.7 cubism-intro.py
